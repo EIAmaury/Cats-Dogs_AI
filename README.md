@@ -34,14 +34,16 @@ cd repository
 
 ### 3. Code structure
 
-**1. Preparing the data** * Creating test and training data
+**1. Preparing the data** 
+* Creating test and training data
 * Creating Test and Training Data
 * Displaying the data 
 
-**2. Model Design
+**2. Model Design**
 * Creating Normalisation, Convolution, MaxPooling and Dense Layers
 * Training on the data
 
-**3. Evaluate model performance * Display test images
+**3. Evaluate model performance**
+* Display test images
 * Display test images
 * View results
