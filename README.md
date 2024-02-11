@@ -8,7 +8,7 @@ Indeed, the variability of poses, colours, breeds and environments in which dogs
 
 To achieve our goal, we will use convolutional neural networks (CNNs). These networks are inspired by the way the human brain works and are particularly effective at extracting relevant features from images.
 
-Machine learning classification](1_qnLIIcszIo2xBwI3LKcjSQ.png)
+![Machine learning classification](1_qnLIIcszIo2xBwI3LKcjSQ.png)
 
 
 
