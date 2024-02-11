@@ -1,31 +1,30 @@
 # Machine learning for classification
 
-### Description
-Ce projet passionnant a pour but de classifier des images de chiens et de chats grâce à des techniques avancées de machine learning.
+### Description.
 
-Ce projet vise à développer un système de classification robuste capable de distinguer avec précision entre les images de chiens et de chats.
-Cette tâche peut sembler simple pour un humain, mais pour un ordinateur, elle représente un défi fascinant. 
-En effet, la variabilité des poses, des couleurs, des races et des environnements dans lesquels les chiens et les chats peuvent être photographiés rend cette classification particulièrement complexe.
+The project aims to develop a robust classification system that can accurately distinguish between images of dogs and cats.
+This task may seem simple to a human, but it is a fascinating challenge for a computer. 
+Indeed, the variability of poses, colours, breeds and environments in which dogs and cats can be photographed makes this classification particularly complex.
 
-Pour atteindre notre objectif, nous allons exploiter des réseaux de neurones convolutionnels (CNN). Ces réseaux sont inspirés par le fonctionnement du cerveau humain et sont particulièrement efficaces pour extraire des caractéristiques pertinentes à partir d'images.
+To achieve our goal, we will use convolutional neural networks (CNNs). These networks are inspired by the way the human brain works and are particularly effective at extracting relevant features from images.
 
-![Machine learnin classification](1_qnLIIcszIo2xBwI3LKcjSQ.png)
-
+Machine learning classification](1_qnLIIcszIo2xBwI3LKcjSQ.png)
 
 
- ### Sommaire
-1. Préréquis
+
+ ### Table of Contents
+1. Prerequisites
 2. Installation
-3. Structure du Code
+3. Code Structure
 
- ### Structure du code
-1. Préparation des données
-2. Conception et l'entraînement du modèle
-3. Evaluation de la performance du modèle
+ ### Code Structure
+1. Data preparation
+2. Model design and training
+3. Evaluation of model performance
 
-### 1. Préréquis
+### 1. Prerequisites
 * Python 3.8 or higher
-* Tensorflow 2.x librairies
+* Tensorflow 2.x libraries
 
 ### 2. Installation
 ```
@@ -33,16 +32,16 @@ git clone repository_link.git
 cd repository
 ```
 
-### 3. Structure du Code
+### 3. Code structure
 
-**1. Preparation des donnees**
-* Création des données de test et d'entrainement
-* Affichage des données 
+**1. Preparing the data** * Creating test and training data
+* Creating Test and Training Data
+* Displaying the data 
 
-**2. Conception du modèle**
-* Création de couche de Normalisation,de Convolution, de MaxPooling et Dense
-* Entrainement sur les données
+**2. Model Design
+* Creating Normalisation, Convolution, MaxPooling and Dense Layers
+* Training on the data
 
-**3.Evaluation de la performance du modèle**
-*Affichage des images de test
-*Affichage des résultats
+**3. Evaluate model performance * Display test images
+* Display test images
+* View results
