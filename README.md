@@ -12,3 +12,7 @@ Pour atteindre notre objectif, nous allons exploiter des réseaux de neurones co
  la collecte et la préparation des données
  la conception et l'entraînement du modèle
  l'évaluation de sa performance
+
+ ### Sommaire
+
+ ### Structure du code
