@@ -1,5 +1,6 @@
-### Machine learning for classification
+# Machine learning for classification
 
+### Description
 Ce projet passionnant a pour but de classifier des images de chiens et de chats grâce à des techniques avancées de machine learning.
 
 Ce projet vise à développer un système de classification robuste capable de distinguer avec précision entre les images de chiens et de chats.
